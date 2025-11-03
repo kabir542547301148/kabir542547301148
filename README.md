@@ -18,7 +18,7 @@ Building modern, responsive, and user-friendly web apps with **React, Tailwind, 
 - **Database:** MongoDB, Firebase
 - **Tools:** Git, VS Code, Netlify, Vercel, Postman
 
----
+--
 
 ### 🧩 Projects
 🌟 **HavenKeys** – Real estate app with secure login, property filters, and Stripe-powered premium listings.  
